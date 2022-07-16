@@ -1,0 +1,25 @@
+{
+"item_list":
+  [
+    {
+    "book_id": 101,
+    "quantity": 5
+    },
+        {
+    "book_id": 103,
+    "quantity": 5
+    },
+        {
+    "book_id": 105,
+    "quantity": 5
+    },
+        {
+    "book_id": 107,
+    "quantity": 5
+    },
+        {
+    "book_id": 109,
+    "quantity": 5
+    }
+  ]
+}
