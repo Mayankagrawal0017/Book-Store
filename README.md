@@ -3,7 +3,7 @@
   
   - create  venv
  
-# run following cammand 
+# Run following cammand 
   - pip install -r requierment.txt 
   - sqlite3 db.sqlite3 < dump.sql 
   - python manage.py  runserver 8000
